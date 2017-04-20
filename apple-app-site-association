@@ -4,7 +4,11 @@
     "details": [
     {
       "appID": "V7F8PE3B8L.com.bestbuy.BestBuy.QAProd",
-      "paths": ["*"]
+      "paths":  [
+               "/*/product/*",
+               "/defaultpage.aspx?lang=*#/catalog/productdetails.aspx*",
+               "/*/category/*"
+               ]
     }
     ]
   }
