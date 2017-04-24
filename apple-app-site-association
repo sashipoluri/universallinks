@@ -1,16 +1,16 @@
 {
   "applinks": {
     "apps": [],
-    "details": [
-    {
-      "appID": ["V7F8PE3B8L.com.bestbuy.BestBuy.QAProd",
-                "JZ33TC8K2R.com.bestbuy.BestBuy"
 
-               ],
-      "paths":  [
-               "/*/product/*"
-               ]
-    }
-    ]
+        "details": [
+            {
+                "appID": "V7F8PE3B8L.com.bestbuy.BestBuy.QAProd",
+                "paths": [  "/*/product/*" ]
+            },
+            {
+                "appID": "JZ33TC8K2R.com.bestbuy.BestBuy",
+                 "paths": [  "/*/product/*" ]
+            }
+        ]
   }
 }
