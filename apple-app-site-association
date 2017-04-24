@@ -6,7 +6,7 @@
       "appID": ["V7F8PE3B8L.com.bestbuy.BestBuy.QAProd",
                 "JZ33TC8K2R.com.bestbuy.BestBuy"
 
-               ]
+               ],
       "paths":  [
                "/*/product/*"
                ]
