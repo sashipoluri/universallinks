@@ -3,11 +3,12 @@
     "apps": [],
     "details": [
     {
-      "appID": "V7F8PE3B8L.com.bestbuy.BestBuy.QAProd",
+      "appID": ["V7F8PE3B8L.com.bestbuy.BestBuy.QAProd",
+                "JZ33TC8K2R.com.bestbuy.BestBuy"
+
+               ]
       "paths":  [
-               "/*/product/*",
-               "/defaultpage*",
-               "/*/category/*"
+               "/*/product/*"
                ]
     }
     ]
